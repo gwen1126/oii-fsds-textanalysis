@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "stopwords-zh": "^0.4.0"
+  }
+}
